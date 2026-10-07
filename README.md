@@ -3,9 +3,9 @@
 - css : contiene los estilos de la pagina
 - imagenes : contiene la imagen para la pagina
 - js : archivos Javascript
-- test: contiene las pruebas que se realizan **pero no se publicaran
+- test: contiene las pruebas que se realizan **pero no se publicaran**
 
-## Tecnologiaas a utilizar
+## Tecnologias a utilizar
 - HTML
 - CSS
 - Javascript
