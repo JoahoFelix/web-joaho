@@ -74,13 +74,17 @@ section p {
     color: #333333;
     margin: 0;
 }
-
-/* PIE DE PAGINA */
+/* pie de la pagina */
 footer {
     background-color: #673ab7;
     color: white;
     text-align: center;
-    padding: 15px;
+    padding: 20px;
+}
+
+footer p {
+    font-size: 14px;
+    margin: 5px;
 }
 
 
