@@ -105,3 +105,16 @@ nav li {
     color: white;
     font-size: 18px;
 }
+/* tamaño de imagen */
+
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+
+figure img {
+    width: 350px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
